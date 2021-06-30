@@ -162,8 +162,8 @@ p{
 }
 
 .button {
-/*  color: $MERAKI:CONTENT1_TEXT_COLOR$; */
-/*  background: $MERAKI:CONTENT1_BACKGROUND_COLOR$; */
+  color: #ffffff; 
+  background: #777777; 
   padding: 1em 2em;
   -moz-border-radius: 3px;
   border-radius: 3px;
