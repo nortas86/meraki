@@ -119,8 +119,8 @@ p{
 }
 
 #sign_in {
-/*  background: $MERAKI:CONTENT1_BACKGROUND_COLOR$; */
-/*  color: $MERAKI:CONTENT1_TEXT_COLOR$; */
+  background: #777777;
+  color: #ffffff;
   border-radius: 2px;
   margin: 2.5em 0 1em;
   padding: 1em;
